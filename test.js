@@ -4,4 +4,5 @@ for (let i = 0; i < 5; i++) {
   console.log(`Count: ${i}`);
 }
 
-const age = 12;
+//  fixed bug
+const age = 11;
